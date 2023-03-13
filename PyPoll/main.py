@@ -5,11 +5,11 @@ import csv
 
 csvpath = os.path.join(r"PyPoll\Resources\election_data.csv")
 
-# initialize some variables to hold the data we'll be collecting
-ballots = [] # list of ballot IDs
+# variables to hold the data we'll be collecting
+ballots = [] 
 candidates = set() # set of candidate names. We didn't cover this in class (that I recall), but it seems to work well here.
-candidate_votes = {} # dictionary to store the number of votes each candidate receives
-total_votes = 0 # total number of votes cast
+candidate_votes = {}
+total_votes = 0
 
 # open the CSV file and read its contents
 with open(csvpath) as csvfile:
