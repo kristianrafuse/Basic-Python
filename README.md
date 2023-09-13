@@ -8,7 +8,6 @@ In the 'PyBank' example I create a Python script that reads a CSV file and analy
 * The greatest increase in profits (date and amount) over the entire period
 * The greatest decrease in profits (date and amount) over the entire period
 -------
-
 In the PyPoll example, I create a Python script that reads a CSV file analyzes the votes and calculates each of the following values:
 
 * The total number of votes cast
