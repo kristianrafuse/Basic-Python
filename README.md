@@ -1,3 +1,5 @@
+Basic Python Scripting
+-------
 In the 'PyBank' example I create a Python script that reads a CSV file and analyzes financial records to calculate each of the following values:
 
 * The total number of months included in the dataset
@@ -5,7 +7,7 @@ In the 'PyBank' example I create a Python script that reads a CSV file and analy
 * The changes in "Profit/Losses" over the entire period, and then the average of those changes
 * The greatest increase in profits (date and amount) over the entire period
 * The greatest decrease in profits (date and amount) over the entire period
-----------
+-------
 
 In the PyPoll example, I create a Python script that reads a CSV file analyzes the votes and calculates each of the following values:
 
